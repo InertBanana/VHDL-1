@@ -1,0 +1,2 @@
+vhdl isim_temp "CONTROL_MEMORY_256x28.vhd"
+vhdl isim_temp "CONTROL_MEMORY_256x28_TB.vhd"

@@ -1,0 +1,3 @@
+vhdl isim_temp "MUX_3_16b.vhd"
+vhdl isim_temp "SINGLE_POS_SHIFTER_16b.vhd"
+vhdl isim_temp "SINGLE_POS_SHIFTER_16b_TB.vhd"

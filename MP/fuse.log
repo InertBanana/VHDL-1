@@ -1,0 +1,66 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/PROCESSOR_TB_isim_beh.exe -prj C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/PROCESSOR_TB_beh.prj work.PROCESSOR_TB 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/MUX_3_16b.vhd" into library work
+Parsing VHDL file "C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/FULL_ADDER_1b.vhd" into library work
+Parsing VHDL file "C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/SINGLE_POS_SHIFTER_16b.vhd" into library work
+Parsing VHDL file "C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/REG_16b.vhd" into library work
+Parsing VHDL file "C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/MUX_8_16b.vhd" into library work
+Parsing VHDL file "C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/LOGIC_UNIT_16b.vhd" into library work
+Parsing VHDL file "C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/FULL_ADDER_16b.vhd" into library work
+Parsing VHDL file "C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/DEC_3_8.vhd" into library work
+Parsing VHDL file "C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/ALU_MUX_OUT_16b.vhd" into library work
+Parsing VHDL file "C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/ALU_CCV_MUX_1b.vhd" into library work
+Parsing VHDL file "C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/REG_FILE_16b.vhd" into library work
+Parsing VHDL file "C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/MUX_S.vhd" into library work
+Parsing VHDL file "C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/MUX_C_8b.vhd" into library work
+Parsing VHDL file "C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/MUX_2_16b.vhd" into library work
+Parsing VHDL file "C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/MEMORY_M_512x16.vhd" into library work
+Parsing VHDL file "C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/INSTRUCTION_REGISTER_16b.vhd" into library work
+Parsing VHDL file "C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/CONTROL_MEMORY_256x28.vhd" into library work
+Parsing VHDL file "C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/CONTROL_ADDRESS_REGISTER.vhd" into library work
+Parsing VHDL file "C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/ALU_16b.vhd" into library work
+Parsing VHDL file "C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/PROGRAM_COUNTER.vhd" into library work
+Parsing VHDL file "C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/CONTROL_MEMORY_WITH_CAR.vhd" into library work
+Parsing VHDL file "C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/ALU_WITH_REG_FILE_16b.vhd" into library work
+Parsing VHDL file "C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/PROCESSOR.vhd" into library work
+Parsing VHDL file "C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/PROCESSOR_TB.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package numeric_std
+Compiling architecture behavioral of entity MEMORY_M_512x16 [memory_m_512x16_default]
+Compiling architecture behavioral of entity REG_16b [reg_16b_default]
+Compiling architecture behavioral of entity MUX_8_16b [mux_8_16b_default]
+Compiling architecture behavioral of entity DEC_3_8 [dec_3_8_default]
+Compiling architecture behavioral of entity REG_FILE_16b [reg_file_16b_default]
+Compiling architecture behavioral of entity MUX_2_16b [mux_2_16b_default]
+Compiling architecture behavioral of entity FULL_ADDER_1b [full_adder_1b_default]
+Compiling architecture behavioral of entity FULL_ADDER_16b [full_adder_16b_default]
+Compiling architecture behavioral of entity LOGIC_UNIT_16b [logic_unit_16b_default]
+Compiling architecture behavioral of entity MUX_3_16b [mux_3_16b_default]
+Compiling architecture behavioral of entity SINGLE_POS_SHIFTER_16b [single_pos_shifter_16b_default]
+Compiling architecture behavioral of entity ALU_MUX_OUT_16b [alu_mux_out_16b_default]
+Compiling architecture behavioral of entity ALU_CCV_MUX_1b [alu_ccv_mux_1b_default]
+Compiling architecture behavioral of entity ALU_16b [alu_16b_default]
+Compiling architecture behavioral of entity ALU_WITH_REG_FILE_16b [alu_with_reg_file_16b_default]
+Compiling architecture behavioral of entity PROGRAM_COUNTER [program_counter_default]
+Compiling architecture behavioral of entity INSTRUCTION_REGISTER_16b [instruction_register_16b_default]
+Compiling architecture behavioral of entity MUX_S [mux_s_default]
+Compiling architecture behavioral of entity MUX_C_8b [mux_c_8b_default]
+Compiling architecture behavioral of entity CONTROL_ADDRESS_REGISTER [control_address_register_default]
+Compiling architecture behavioral of entity CONTROL_MEMORY_256x28 [control_memory_256x28_default]
+Compiling architecture behavioral of entity CONTROL_MEMORY_WITH_CAR [control_memory_with_car_default]
+Compiling architecture behavioral of entity PROCESSOR [processor_default]
+Compiling architecture behavior of entity processor_tb
+Time Resolution for simulation is 1ps.
+Waiting for 21 sub-compilation(s) to finish...
+Compiled 52 VHDL Units
+Built simulation executable C:/Users/Andrew/Documents/CS2022/RPT PROJ/MP/PROCESSOR_TB_isim_beh.exe
+Fuse Memory Usage: 39360 KB
+Fuse CPU Usage: 843 ms

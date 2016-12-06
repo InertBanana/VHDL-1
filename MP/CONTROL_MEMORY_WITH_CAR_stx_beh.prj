@@ -1,0 +1,6 @@
+vhdl isim_temp "MUX_S.vhd"
+vhdl isim_temp "MUX_C_8b.vhd"
+vhdl isim_temp "INSTRUCTION_REGISTER_16b.vhd"
+vhdl isim_temp "CONTROL_MEMORY_256x28.vhd"
+vhdl isim_temp "CONTROL_ADDRESS_REGISTER.vhd"
+vhdl isim_temp "CONTROL_MEMORY_WITH_CAR.vhd"

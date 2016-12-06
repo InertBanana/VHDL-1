@@ -1,0 +1,5 @@
+vhdl isim_temp "REG_16b.vhd"
+vhdl isim_temp "MUX_8_16b.vhd"
+vhdl isim_temp "DEC_3_8.vhd"
+vhdl isim_temp "REG_FILE_16b.vhd"
+vhdl isim_temp "REG_FILE_16b_TB.vhd"

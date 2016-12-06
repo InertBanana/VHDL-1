@@ -1,0 +1,2 @@
+vhdl isim_temp "LOGIC_UNIT_16b.vhd"
+vhdl isim_temp "LOGIC_UNIT_16b_TB.vhd"

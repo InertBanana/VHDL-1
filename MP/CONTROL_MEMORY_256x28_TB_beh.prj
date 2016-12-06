@@ -1,0 +1,2 @@
+vhdl work "CONTROL_MEMORY_256x28.vhd"
+vhdl work "CONTROL_MEMORY_256x28_TB.vhd"
